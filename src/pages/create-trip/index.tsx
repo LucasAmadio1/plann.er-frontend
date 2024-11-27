@@ -119,11 +119,11 @@ export function CreateTripPage() {
             Ao planejar sua viagem pela plann.er você automaticamente concorda{' '}
             <br />
             com nossos{' '}
-            <a className="text-zinc-300 underline" href="#">
+            <a href="#" className="text-zinc-300 underline hover:text-zinc-400">
               termos de uso
             </a>{' '}
             e{' '}
-            <a className="text-zinc-300 underline" href="#">
+            <a href="#" className="text-zinc-300 underline hover:text-zinc-400">
               políticas de privacidade
             </a>
             .
